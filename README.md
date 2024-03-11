@@ -25,4 +25,4 @@ The Coin Flipper project is a simple web application that allows users to simula
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/coin-flipper.git
+https://github.com/MohammadArmaan/Flip-A-Coin/tree/master
